@@ -1,0 +1,4 @@
+﻿  BruteRayIntersection.cpp
+g:\year 3\graphics\lab3\maths\maths\obj_loader.h(909): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  maths.vcxproj -> G:\Year 3\Graphics\Lab3\maths\x64\Debug\maths.exe
+  maths.vcxproj -> G:\Year 3\Graphics\Lab3\maths\x64\Debug\maths.pdb (Partial PDB)

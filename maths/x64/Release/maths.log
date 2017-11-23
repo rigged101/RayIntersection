@@ -1,0 +1,10 @@
+﻿  BruteRayIntersection.cpp
+g:\year 3\graphics\lab3\maths\maths\OBJ_Loader.h(909): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+BruteRayIntersection.cpp(345): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  23 of 1028 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  maths.vcxproj -> G:\Year 3\Graphics\Lab3\maths\x64\Release\maths.exe
+  maths.vcxproj -> G:\Year 3\Graphics\Lab3\maths\x64\Release\maths.pdb (Full PDB)

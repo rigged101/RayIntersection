@@ -1,0 +1,21 @@
+﻿  main.cpp
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(612): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(649): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(655): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(909): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Maths.cpp
+  BruteRayIntersection.cpp
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(612): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(649): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(655): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\obj_loader.h(909): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(29): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(67): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(69): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(97): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(105): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(145): warning C4018: '<': signed/unsigned mismatch
+f:\year 3\graphics\lab3\maths\maths\bruterayintersection.cpp(163): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  maths.vcxproj -> F:\Year 3\Graphics\Lab3\maths\Debug\maths.exe
